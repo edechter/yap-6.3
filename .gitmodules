@@ -27,7 +27,7 @@
 	url = git://git.code.sf.net/p/yap/semweb
 [submodule "packages/plunit"]
 	path = packages/plunit
-	url = git://git.code.sf.net/p/yap/plunit
+	url = https://github.com/edechter/packages-plunit.git
 [submodule "packages/real"]
 	path = packages/real
 	url = git://git.code.sf.net/p/yap/real
